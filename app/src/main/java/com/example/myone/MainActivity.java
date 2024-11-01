@@ -18,7 +18,9 @@ public class MainActivity extends AppCompatActivity {
                 Intent intent = new Intent(MainActivity.this,MainActivity2.class);
                 startActivity(intent);
                 finish();
-            }
+            //hamza madani
+                 }
+
         },3000);
     }
 }
